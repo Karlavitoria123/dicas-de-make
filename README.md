@@ -1,2 +1,2 @@
 # dicas-de-make
-contato: karla.neres.barbosa@ecola.pr.gov.br
+https://github.com/Karlavitoria123/dicas-de-make.git
